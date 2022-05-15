@@ -1,2 +1,2 @@
 # List Sorting and CPU Consumption Samples
-See the blog post at :
+See [The CPU Effects of Sorting](http://bobbuzzard.blogspot.com/2022/05/the-cpu-effects-of-sorting.html) blog post.
